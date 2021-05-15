@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/exe.dir/src/cuenta.cpp.o  -o exe  -Wl,-rpath,/home/joseph/Escritorio/practicaExamen/cuenta/build libper.so 

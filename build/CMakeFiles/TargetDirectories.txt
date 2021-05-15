@@ -1,0 +1,4 @@
+/home/joseph/Escritorio/practicaExamen/cuenta/build/CMakeFiles/rebuild_cache.dir
+/home/joseph/Escritorio/practicaExamen/cuenta/build/CMakeFiles/edit_cache.dir
+/home/joseph/Escritorio/practicaExamen/cuenta/build/CMakeFiles/exe.dir
+/home/joseph/Escritorio/practicaExamen/cuenta/build/CMakeFiles/per.dir
