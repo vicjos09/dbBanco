@@ -12,8 +12,8 @@ void err();
 void copiar(Persona *copy,Persona *origin,int len);
 int main()
 {
-	int size;
-	int menu;
+    int size;
+    int menu;
     int n=5;
     int saldoPon;
     std::string nombrePon;
